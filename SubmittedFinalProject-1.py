@@ -1,4 +1,4 @@
-Instructions: https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A64c41ed3-9de1-42d3-b79d-b8e6df0458d9
+#Instructions: https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A64c41ed3-9de1-42d3-b79d-b8e6df0458d9
 class Character:        #class
     '''This class holds the main character for this game.      #style 1 of commenting
     Contains internal functions to add/subtract health as well as add coins.
